@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 C++20 includes the following new language features:
 - [coroutines](#coroutines)
 - [concepts](#concepts)
@@ -33,6 +34,7 @@ C++20 includes the following new library features:
 - [std::midpoint](#stdmidpoint)
 - [std::to_array](#stdto_array)
 
+
 C++17 includes the following new language features:
 - [template argument deduction for class templates](#template-argument-deduction-for-class-templates)
 - [declaring non-type template parameters with auto](#declaring-non-type-template-parameters-with-auto)
@@ -63,6 +65,7 @@ C++17 includes the following new library features:
 - [parallel algorithms](#parallel-algorithms)
 - [std::sample](#stdsample)
 
+
 C++14 includes the following new language features:
 - [binary literals](#binary-literals)
 - [generic lambda expressions](#generic-lambda-expressions)
@@ -77,6 +80,7 @@ C++14 includes the following new library features:
 - [user-defined literals for standard library types](#user-defined-literals-for-standard-library-types)
 - [compile-time integer sequences](#compile-time-integer-sequences)
 - [std::make_unique](#stdmake_unique)
+
 
 C++11 includes the following new language features:
 - [move semantics](#move-semantics)
@@ -129,6 +133,8 @@ C++11 includes the following new library features:
 - [memory model](#memory-model)
 - [std::async](#stdasync)
 - [std::begin/end](#stdbeginend)
+
+
 
 ## C++20 Language Features
 
